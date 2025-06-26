@@ -16,5 +16,11 @@
 ## Images uploaded in the ECR
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/15b6cb3d-b76e-4903-b3aa-5ab0cdb64f74" />
 
+## Pulling image from ECR
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/5890b8f7-0273-4b9c-99f8-7acea0d058fe" />
 
+## Running the pulled conatiner (mysql)
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/017c39b1-6f6b-456c-99c9-68264bcbccdf" />
 
+## Status of the container
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/149c83a9-779a-42d8-a8d2-29e32e3d4e9f" />
